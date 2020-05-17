@@ -1,2 +1,2 @@
 # portfolio
-My personal webpage
+My personal webpage, written with django
